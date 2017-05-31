@@ -18,5 +18,5 @@ abstract class InstrumentoMusical
         echo "todos los instrumentos producimos notas";
     }
 
-//kjkjvbdvkjsbdvkjsdvksbdvkjbskjvbsdkjvbskdjvbskjdvbskjdvbkb
+//blek le rat
 }
